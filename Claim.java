@@ -1,13 +1,3 @@
-// ---- ASSIGNMENT 2 | CPCS-203  ----
-// Name : Faisal Mohammed Bin Hassan
-// Uni_ID : 2136143
-// Course : CPCS203 - Programming II
-// Section Number : ZJ
-
-
-
-
-
 import java.util.*;
 
 public class Claim {
