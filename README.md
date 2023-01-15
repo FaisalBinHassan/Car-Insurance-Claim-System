@@ -10,12 +10,15 @@ After processing each claim, the details are written to the output file ClaimInv
 
 
 ## Inputs - inputCICSData.txt
+<img width="813" alt="Screenshot 2023-01-15 at 1 44 20 AM" src="https://user-images.githubusercontent.com/83821827/212508677-840b5e94-9017-4f72-a30a-073774b6b22f.png">
 
 
 ## Inputs - inputClaims.txt
-
+<img width="589" alt="Screenshot 2023-01-15 at 1 44 09 AM" src="https://user-images.githubusercontent.com/83821827/212508683-a9ef80e8-1d26-481b-b9bc-67c0766ad69a.png">
 
 ## Outputs - outputClaimInvoices.txt
+<img width="494" alt="Screenshot 2023-01-15 at 1 43 57 AM" src="https://user-images.githubusercontent.com/83821827/212508804-23e1e1a4-807e-45df-aacc-660621862f2e.png">
 
 
 ## Outputs - outputCICSDatabase.txt
+<img width="573" alt="Screenshot 2023-01-15 at 1 43 50 AM" src="https://user-images.githubusercontent.com/83821827/212508808-a9bf0136-2920-4fe2-87b6-3abf81515788.png">
